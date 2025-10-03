@@ -29,7 +29,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
-'''
+```
 math.html
 
 <!DOCTYPE html>
@@ -175,7 +175,7 @@ urlpatterns = [
     path('', views.power_calculator, name='power_calculator'),
 ]
 
-'''
+```
 # SERVER SIDE PROCESSING:
 ![alt text](<Screenshot 2025-10-02 212915.png>)
 # HOMEPAGE:
